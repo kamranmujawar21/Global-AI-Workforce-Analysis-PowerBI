@@ -89,7 +89,7 @@ Microsoft Power BI
 - Data Modeling
 - KPI Development
 - Interactive Slicers
-- Drill-Down Analysis
+- Tooltips
 - Decomposition Tree
 - Data Visualization
 - Dashboard Development
